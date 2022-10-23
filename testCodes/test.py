@@ -1,2 +1,2 @@
 print("hello")
-print("Anju and Sangeeth loves git")
+print("Anju loves git a little less now")
